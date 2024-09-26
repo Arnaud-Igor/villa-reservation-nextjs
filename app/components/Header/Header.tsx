@@ -11,7 +11,7 @@ function Header() {
     >
       <div className="absolute bg-black inset-0 opacity-70"></div>
       <div className="container relative text-white text-center space-y-7 md:space-y-10">
-        <h1 className="text-xl md:text-6xl font-bold">{`Nos Villas d'Exception`}</h1>
+        <h1 className="text-2xl md:text-6xl font-bold">{`Nos Villas de Rêve`}</h1>
         <p className="text-xs md:text-2xl">
           Chacune de nos villas est soigneusement sélectionnée pour répondre aux
           attentes des voyageurs les plus exigeants. Des intérieurs raffinés,
