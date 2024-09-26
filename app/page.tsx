@@ -1,5 +1,6 @@
 import Galerie from "./components/Galerie/Galerie";
 import Header from "./components/Header/Header";
+import Reservation from "./components/Reservation/Reservation";
 import VillaInfos from "./components/VillaInfos/VillaInfos";
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
         hasPool={true}
         hasCinema={true}
       />
+      <Reservation />
     </div>
   );
 }
