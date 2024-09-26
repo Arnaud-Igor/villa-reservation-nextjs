@@ -23,10 +23,10 @@ function Galerie() {
           Notre Galerie de Villas de Prestige
         </h1>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:py-8 md:px-4 md:border md:border-gray-300">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:py-8 md:px-4 md:border-[0.5px] md:shadow-lg">
         <div className="grid grid-cols-1">
           <div className="flex flex-col md:justify-center md:h-[400px]">
-            <h2 className="font-bold text-center text-xl md:text-3xl md:text-start mb-6">
+            <h2 className="font-bold text-center text-xl md:text-3xl md:text-start mb-6 text-amber-600">
               Une Architecture Unique
             </h2>
             <p className="text-gray-700 text-justify lg:text-xl">
