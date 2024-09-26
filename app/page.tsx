@@ -1,3 +1,4 @@
+import Footer from "./components/Footer/Footer";
 import Galerie from "./components/Galerie/Galerie";
 import Header from "./components/Header/Header";
 import Reservation from "./components/Reservation/Reservation";
@@ -17,6 +18,7 @@ export default function Home() {
         hasCinema={true}
       />
       <Reservation />
+      <Footer />
     </div>
   );
 }
